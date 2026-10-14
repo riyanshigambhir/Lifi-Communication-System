@@ -59,8 +59,6 @@ docs/
   RESULTS.md                  Test results and timing
   PROBLEMS_AND_FIXES.md       What went wrong and how it was fixed
   ROADMAP.md                  Phases, next steps and risks
-  report/                     Mid-semester report (PDF)
-images/                       Photos (see images/README.md for the list)
 ```
 
 ## Simulation
