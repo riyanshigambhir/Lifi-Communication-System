@@ -1,0 +1,14 @@
+# macOS / editors
+.DS_Store
+.vscode/
+.idea/
+
+# Arduino build output
+build/
+*.elf
+*.hex
+*.bin
+
+# Simulation output
+simulation/build/
+simulation/wave.txt
